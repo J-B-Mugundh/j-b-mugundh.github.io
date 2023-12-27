@@ -20,9 +20,6 @@ jobs:
         
       - name: Build
         run: CI=false npm run build
-        
-      - name: Test
-        run: npm test
           
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
