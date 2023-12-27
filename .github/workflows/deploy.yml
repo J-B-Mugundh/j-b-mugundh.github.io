@@ -16,7 +16,7 @@ jobs:
           node-version: 16.x
 
       - name: Install Dependencies
-        run: npm ci
+        run: npm ci --force
         
       - name: Build
         run: CI=false npm run build
