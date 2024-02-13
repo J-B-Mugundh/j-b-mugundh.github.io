@@ -1,0 +1,1 @@
+Welcome to the repository of my personal portfolio website built with React.js and TypeScript. This website serves as a showcase of my skills, projects, and experiences in the field of Computer Science.
