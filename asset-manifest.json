@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.46961403.css",
-    "main.js": "/static/js/main.d61485eb.js",
+    "main.js": "/static/js/main.d8359bdd.js",
     "static/media/Hello.gif": "/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/J_B_Mugundh_Resume.pdf": "/static/media/J_B_Mugundh_Resume.a71d01ea9bc49393017e.pdf",
+    "static/media/illustration.png": "/static/media/illustration.3a1273635f25f127e5e6.png",
     "static/media/Mugundh.png": "/static/media/Mugundh.66bd44fccb24f240f587.png",
-    "static/media/illustration.svg": "/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
     "static/media/mysql.svg": "/static/media/mysql.c0571d009f945f2381476ad07ceb4d99.svg",
     "static/media/node-icon.svg": "/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
     "static/media/typescript-icon.svg": "/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
@@ -33,10 +33,10 @@
     "static/media/js-icon.svg": "/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "static/media/figma.svg": "/static/media/figma.44ca2c329ade686d78f62ad73790c621.svg",
     "main.46961403.css.map": "/static/css/main.46961403.css.map",
-    "main.d61485eb.js.map": "/static/js/main.d61485eb.js.map"
+    "main.d8359bdd.js.map": "/static/js/main.d8359bdd.js.map"
   },
   "entrypoints": [
     "static/css/main.46961403.css",
-    "static/js/main.d61485eb.js"
+    "static/js/main.d8359bdd.js"
   ]
 }
