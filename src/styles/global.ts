@@ -7,7 +7,7 @@ export const GlobalStyle = createGlobalStyle`
   :root{
     --pink: #E31F71;
     --black: #212121;
-    --green: #23ce6b;
+    --green: #C9184A;
     --blue: #016fb9;
     scroll-padding-top: 10rem;
 
