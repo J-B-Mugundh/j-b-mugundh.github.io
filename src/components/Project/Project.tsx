@@ -97,7 +97,7 @@ export function Project() {
             <div className="body">
               <h3>PrivacyOps: Empowered by Privacy, Supported by Law</h3>
               <p>
-              This innovative project, "PrivacyOps," tackles the challenge of data security and privacy head-on. Designed specifically for the Karnataka State Police Datathon, PrivacyOps empowers officers with a suite of powerful tools
+              This innovative project, "PrivacyOps," tackles the challenge of data security and privacy head-on. Designed specifically for the Karnataka State Police Datathon, PrivacyOps empowers officers with a suite of powerful tools with Secure Logins, Complete Data Control, Crime Lens API, AI-powered Encryption, Selective data masking and Gamified Privacy Education
               </p>
             </div>
             <footer>
