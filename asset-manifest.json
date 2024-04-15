@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.46961403.css",
-    "main.js": "/static/js/main.60e97ddb.js",
+    "main.js": "/static/js/main.742edef4.js",
     "static/media/Hello.gif": "/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/J_B_Mugundh_Resume.pdf": "/static/media/J_B_Mugundh_Resume.a71d01ea9bc49393017e.pdf",
     "static/media/illustration.png": "/static/media/illustration.3a1273635f25f127e5e6.png",
@@ -33,10 +33,10 @@
     "static/media/js-icon.svg": "/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "static/media/figma.svg": "/static/media/figma.44ca2c329ade686d78f62ad73790c621.svg",
     "main.46961403.css.map": "/static/css/main.46961403.css.map",
-    "main.60e97ddb.js.map": "/static/js/main.60e97ddb.js.map"
+    "main.742edef4.js.map": "/static/js/main.742edef4.js.map"
   },
   "entrypoints": [
     "static/css/main.46961403.css",
-    "static/js/main.60e97ddb.js"
+    "static/js/main.742edef4.js"
   ]
 }
